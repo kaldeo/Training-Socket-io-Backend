@@ -1,10 +1,11 @@
 {
-  "name": "training-socket-io",
+  "name": "training-socket-io-backend",
   "version": "1.0.0",
   "main": "app.js",
   "author": "Kaldéo",
   "dependencies": {
     "express": "^5.1.0",
+    "http": "^0.0.1-security",
     "socket.io": "^4.8.1"
   }
 }
